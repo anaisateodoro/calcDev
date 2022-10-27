@@ -1,10 +1,11 @@
 # calcDev
 Aula - Java Básico - Professor: Diego Bracellos
 
-## Atalho para gravação de tela do Ubuntu 20.04.5 LTS
+## Atalho para gravação de tela do Ubuntu 20.04.5 LTS (duração até 60 segundos).
 
-´´
+``
 Ctrl + Alt + Shift + R
+``
 
 
 Algoritmo para fim de exercício com as quatro operações básicas de uma calculadora.
